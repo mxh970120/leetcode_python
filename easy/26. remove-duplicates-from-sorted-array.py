@@ -1,3 +1,8 @@
+'''
+Author: mxh970120
+Date: 2020.12.15
+'''
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         i = 0

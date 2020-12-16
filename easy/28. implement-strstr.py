@@ -1,3 +1,8 @@
+'''
+Author: mxh970120
+Date: 2020.12.15
+'''
+
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         # 利用了python的特性

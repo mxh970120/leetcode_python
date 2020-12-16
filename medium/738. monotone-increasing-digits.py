@@ -1,3 +1,8 @@
+'''
+Author: mxh970120
+Date: 2020.12.15
+'''
+
 class Solution:
     def monotoneIncreasingDigits(self, N: int) -> int:
         # 既然要尽可能的大，那么这个数从高位开始要尽可能地保持不变。那么我们找到从高到低第一个满足

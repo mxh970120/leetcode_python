@@ -1,3 +1,8 @@
+'''
+Author: mxh970120
+Date: 2020.12.14
+'''
+
 class Solution:
     def isValid(self, s):
         if not s: return True

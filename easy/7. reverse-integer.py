@@ -1,3 +1,8 @@
+'''
+Author: mxh970120
+Date: 2020.12.13
+'''
+
 class Solution:
     def reverse(self, x: int) -> int:
         isPositiv = True

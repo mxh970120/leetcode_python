@@ -1,3 +1,8 @@
+'''
+Author: mxh970120
+Date: 2020.12.14
+'''
+
 class Solution:
     def longestCommonPrefix(self, strs):
         if not strs: return ""

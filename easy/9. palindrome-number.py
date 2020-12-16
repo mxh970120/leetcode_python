@@ -1,3 +1,8 @@
+'''
+Author: mxh970120
+Date: 2020.12.13
+'''
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         # 字符串切片反转

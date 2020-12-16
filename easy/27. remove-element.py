@@ -1,3 +1,8 @@
+'''
+Author: mxh970120
+Date: 2020.12.15
+'''
+
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         if val not in nums:
